@@ -1,5 +1,8 @@
-### Hi there 👋
+## Oi, eu sou o Ryhan. Seja bem-vindo(a)!
+### Dev em formação, buscando oportunidade de crescer na área 
+---
 
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ryhanclayver&show_icons=true&theme=dark)
 
 Ryhan Clayver na área!
 - 🔭 I’m currently working on ...
