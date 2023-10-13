@@ -1,5 +1,3 @@
-![Bootstrap](https://github.com/ryhanclayver/ryhanclayver/assets/106684262/38978ba5-d8c1-433d-a04b-af0a6ee05fe9)<div align="left">
-  
 ## Oi, eu sou o Ryhan. Seja bem-vindo(a)!
 ### Dev em formação, buscando oportunidade de crescer na área 
 ---
