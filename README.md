@@ -2,7 +2,7 @@
 ### Dev em formação, buscando oportunidade de crescer na área 
 ---
 
-Estou atualmente no segundo ano do curso de ADS no IFSP - Catanduva. Quero aprimorar minhas habilidades como dev e conhecer pessoas que almejam do mesmo sonho que eu, para que possamos evoluir juntos. Estou aberto para qualquer tipo de colaboração, sinta-se à vontade para entrar em contato comigo!  
+Estou atualmente no terceiro ano do curso de ADS no IFSP - Catanduva. Quero aprimorar minhas habilidades como dev e conhecer pessoas que almejam do mesmo sonho que eu, para que possamos evoluir juntos. Estou aberto para qualquer tipo de colaboração, sinta-se à vontade para entrar em contato comigo!  
 
 ---
 
