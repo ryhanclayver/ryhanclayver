@@ -1,5 +1,5 @@
 ## Oi, eu sou o Ryhan. Seja bem-vindo(a)!
-### Dev em formação, buscando oportunidade de crescer na área 
+### Dev formado, buscando oportunidade de crescer na área 
 ---
 
 Quero aprimorar minhas habilidades como dev e conhecer pessoas que almejam do mesmo sonho que eu, para que possamos evoluir juntos. Estou aberto para qualquer tipo de colaboração, sinta-se à vontade para entrar em contato comigo!  
